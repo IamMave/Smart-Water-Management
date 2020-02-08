@@ -1,5 +1,5 @@
 # Smart Water Management System
-## By LilHax
+## Team LilHax
 ### Problem
 Global warming being a great issue of this era, requires solutions which help the present generation as well as helps in sustainable development. Human kind has been irresponsible in terms of water usage. We see inappropriate and excessive usage of water especially in Metropolitan cities, where people don’t actually value the natural resource. Our project deals with management of water and water flow from a small society to entire urban infrastructure. 
 ### Approach
