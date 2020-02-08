@@ -7,3 +7,6 @@ Global warming being a great issue of this era, requires solutions which help th
 * A python script running as a server subscribes to the topics, processes and stores the data in a SQL database.
 * Cross platform app subscribes to the appropriate topics and displays the appropriate information to user and admin. 
 <p align="center"><br><br><img src="Picture1.png" width="500" alt="accessibility text"></p><br><br>
+
+ 
+
