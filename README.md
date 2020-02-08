@@ -8,7 +8,7 @@ Global warming being a great issue of this era, requires solutions which help th
 * Cross platform app subscribes to the appropriate topics and displays the appropriate information to user and admin. 
 <p align="center"><br><br><img src="Picture1.png" width="500" alt="accessibility text"></p><br><br>
 
-### Outcome
+### Outcomes
 
 * It estimates the amount of water consumed by user on a day to day basis, which can be used to regulate water supply to a particular user. 
 * It allows the admin to control the amount of water distributed to each user based on continuous evaluation. 
