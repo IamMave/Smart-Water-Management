@@ -6,4 +6,4 @@ Global warming being a great issue of this era, requires solutions which help th
 * NodeMCU(ESP8266) is used as an interface to publish the gathered data to the MQTT broker.
 * A python script running as a server subscribes to the topics, processes and stores the data in a SQL database.
 * Cross platform app subscribes to the appropriate topics and displays the appropriate information to user and admin. 
-<p align="center"><img src="Picture1.jpg" width="500" alt="accessibility text"></p><br><br>
+<p align="center"><img src="Picture1.png" width="500" alt="accessibility text"></p><br><br>
